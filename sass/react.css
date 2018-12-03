@@ -545,13 +545,13 @@ nav {
   top: 0;
   left: 1.5rem;
   z-index: 10000;
-  font-size: 5rem; }
+  font-size: 3rem; }
   .modal-close::after {
     position: absolute;
     top: 0;
     left: 0;
     font-size: 1rem;
-    content: 'Back'; }
+    content: 'esc'; }
 
 .about .modal.bottom-sheet {
   height: auto; }
